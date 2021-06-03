@@ -1,0 +1,13 @@
+/* app global css */
+body {
+  color: #F0F0F0;
+}
+
+.q-field--filled .q-field__control {
+  background: #F0F0F0;
+  border-radius: 8px;
+}
+
+.q-field--filled .q-field__control {
+  padding: 0 24px;
+}
